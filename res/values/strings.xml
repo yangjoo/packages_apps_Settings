@@ -4924,4 +4924,8 @@
     <string name="mod_version">SuperNexus version</string>
     <string name="mod_version_default">Unknown</string>
 
+    <!-- USB Mass Storage -->
+    <string name="usb_mass_storage_title">Mass storage (UMS)</string>
+    <string name="usb_mass_storage_summary">Lets you transfer any files between your computer and your SD card by mounting it as a flash device</string>
+
 </resources>
