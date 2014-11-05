@@ -2043,4 +2043,79 @@
     <string name="user_image_choose_photo" msgid="7940990613897477057">"갤러리에서 사진 선택"</string>
     <string name="regulatory_info_text" msgid="5623087902354026557"></string>
     <string name="accessibility_home_button_answers_call_prerefence_title">홈 버튼으로 전화 받기</string>
+
+    <!-- 시계 설정 -->
+    <string name="ok">확인</string>
+    <string name="reset">초기화</string>
+
+    <string name="header_category_rom_settings">고급 설정</string>
+
+    <string name="interface_settings_title">인터페이스</string>
+
+    <string name="dialog_color_picker">시계 색상</string>
+    <string name="press_color_to_apply">설정을 적용하려면 아래의 선택된 색상을 누르세요</string>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
+    <string name="hex">헥스코드:</string>
+    <string name="hex_hint">#ff000000</string>
+    <string name="set">설정</string>
+    <string name="color_default">기본값</string>
+
+    <string name="status_bar_title">상태바</string>
+    <string name="status_bar_style_title">스타일</string>
+
+    <string name="status_bar_clock">상태바 시계 및 날짜</string>
+    <string name="status_bar_clock_title">상태바 시계</string>
+    <string name="clock_title_enable">위치</string>
+    <string name="clock_enabled">사용중</string>
+    <string name="clock_disabled">사용 안함</string>
+    <string name="clock_color_title">색상</string>
+    <string name="status_bar_clock_style_reset">색상 초기화</string>
+    <string name="status_bar_show_clock_title">시계 및 날짜 표시</string>
+    <string name="status_bar_am_pm_title">오전/오후</string>
+    <string name="status_bar_am_pm_info">24시간 형식의 시계 사용중</string>
+    <string name="enable_clock_weekday">요일</string>
+    <string name="enable_clock_weekday_summary">시계 앞에 요일 표시</string>
+    <string name="right_clock">오른쪽</string>
+    <string name="center_clock">가운데</string>
+    <string name="dont_show">표시 안함</string>
+    <string name="clock_date_display">날짜</string>
+    <string name="clock_date_display_summary">시계 앞에 날짜 표시</string>
+    <string name="clock_date_style">날짜 스타일</string>
+    <string name="clock_date_format">날짜 포맷</string>
+    <string name="clock_date_string_edittext_title">반드시 날짜 포맷으로 설정해야 됩니다</string>
+    <string name="clock_date_string_edittext_summary">날짜 포맷 입력</string>
+    <string name="am_pm_clock_normal">보통 크기</string>
+    <string name="am_pm_clock_small">작은 크기</string>
+    <string name="am_pm_clock_none">표시 안함</string>
+    <string name="clock_date_display_none">표시 안함</string>
+    <string name="clock_date_display_small">작은 크기</string>
+    <string name="clock_date_display_normal">보통 크기</string>
+    <string name="clock_date_style_normal">보통</string>
+    <string name="clock_date_style_lowercase">소문자</string>
+    <string name="clock_date_style_uppercase">대문자</string>
+    <string name="clock_date_format_custom">사용자 설정</string>
+    <string name="status_bar_clock_style_reset_message">시계 색상을 초기화 하시겠습니까?</string>
+
+    <string-array name="clock_date_format_entries_values">
+        <item>MMM d일  (EEE) </item>
+        <item>MMM dd일  (EEE) </item>
+        <item>MMM dd일  EEEE </item>
+        <item>MMMM d일  (EEE) </item>
+        <item>MMMM dd일  (EEE) </item>
+        <item>MMMM dd일  EEEE </item>
+        <item>yyyy년 MMM dd일  (EEE) </item>
+        <item>yyyy년 MMM dd일  EEEE </item>
+        <item>yyyy년 MMMM dd일  (EEE) </item>
+        <item>yyyy년 MMMM dd일  EEEE </item>
+        <item>MM/dd  EEE </item>
+        <item>MM/dd  EEEE </item>
+        <item>MM-dd  EEE </item>
+        <item>MM-dd  EEEE </item>
+        <item>yyyy/MM/dd  EEE </item>
+        <item>yyyy/MM/dd  EEEE </item>
+        <item>yyyy-MM-dd  EEE </item>
+        <item>yyyy-MM-dd  EEEE </item>
+        <item>@string/clock_date_format_custom</item>
+    </string-array>
 </resources>
